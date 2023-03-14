@@ -169,14 +169,15 @@
 }
 
 .u-section-2 .u-icon-1 {
-  height: 64px;
-  width: 64px;
+  height: 80px;
+  width: 80px;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1.4;
-  margin: 0 auto;
+  margin: 0 65px 0 auto;
+  padding: 0;
 }
 
 .u-section-2 .u-text-1 {
@@ -188,7 +189,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 20px auto 0;
+  margin: 5px auto 0;
 }
 
 .u-section-2 .u-text-2 {
@@ -205,14 +206,15 @@
 }
 
 .u-section-2 .u-icon-2 {
-  height: 64px;
-  width: 64px;
+  height: 80px;
+  width: 80px;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1.4;
-  margin: 0 auto;
+  margin: 0 65px 0 auto;
+  padding: 0;
 }
 
 .u-section-2 .u-text-3 {
@@ -224,7 +226,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 20px auto 0;
+  margin: 5px auto 0;
 }
 
 .u-section-2 .u-text-4 {
@@ -241,14 +243,15 @@
 }
 
 .u-section-2 .u-icon-3 {
-  height: 64px;
-  width: 64px;
+  height: 80px;
+  width: 80px;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1.4;
-  margin: 0 auto;
+  margin: 0 65px 0 auto;
+  padding: 0;
 }
 
 .u-section-2 .u-text-5 {
@@ -260,7 +263,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 20px auto 0;
+  margin: 5px auto 0;
 }
 
 .u-section-2 .u-text-6 {
@@ -277,14 +280,15 @@
 }
 
 .u-section-2 .u-icon-4 {
-  height: 64px;
-  width: 64px;
+  height: 80px;
+  width: 80px;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1.4;
-  margin: 0 auto;
+  margin: 0 65px 0 auto;
+  padding: 0;
 }
 
 .u-section-2 .u-text-7 {
@@ -296,7 +300,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 20px auto 0;
+  margin: 5px auto 0;
 }
 
 .u-section-2 .u-text-8 {
